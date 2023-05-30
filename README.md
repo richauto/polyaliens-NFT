@@ -1,2 +1,2 @@
-# polyliens-NFT
+# polyaliens-NFT
 Creating a Frontend Website for an NFT Collection
